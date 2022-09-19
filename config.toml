@@ -16,7 +16,7 @@ ignoreErrors = ["error-remote-getjson"]
 
 
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "UA-176823538-3"
 
 [outputs]
 home = ["HTML", "JSON", "RSS"]
