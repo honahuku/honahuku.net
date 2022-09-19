@@ -32,5 +32,7 @@ Steam:
 https://steamcommunity.com/profiles/76561199016958231/  
 
 GPG:  
-https://gist.github.com/Honahuku/0aa0f2c2fad250ae35841f1902f281c3  
+https://gist.github.com/Honahuku/2406cc7f2ceb42d148366ab7eff60098  
 
+Misskey:  
+https://misskey.io/@honahuku  
