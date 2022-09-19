@@ -1,0 +1,6 @@
+baseURL = 'https://honahuku.com/'
+languageCode = 'ja'
+title = 'Honahuku'
+defaultContentLanguage = "ja"
+hasCJKLanguage = true
+theme = "puppet"
