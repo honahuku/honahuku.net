@@ -21,8 +21,12 @@ https://twitter.com/i/events/1540823694926553089
 
 ## 女装
 フォロワーに送りつけられたんです...ホントだよ？  
-  
+<details>
+<summary></summary>
+
 https://twitter.com/i/events/1548522396445188096
+</details>
+
 
 ## イベントとか
 私が使っている[アッシュちゃん](https://booth.pm/ja/items/3234473)の集会とかに参加した写真を上げてるよ。  
