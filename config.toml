@@ -88,3 +88,10 @@ bio = "すやすや"
 rss_enable = true
 twitter = "honahuku"
 github = "Honahuku"
+
+[params.social.mastodon]
+weight = 56
+icon = "fab fa-mastodon"
+format = "https://mstdn.poyo.me/%v"
+id = "@honahuku"
+url = ""
