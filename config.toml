@@ -94,13 +94,16 @@ rss = true
 keybase = "honahuku"
 spotify = "f4qvq7q2ub0skmo03jqw5epkz"
 steam = "honahuku"
-slideshare = 
+
 [params.social.mastodon]
-weight = 56
-icon = "fab fa-mastodon"
 format = "https://mstdn.poyo.me/%v"
 id = "@honahuku"
-url = ""
+
+[params.social.discord]
+format = "https://discord.com/users/%v"
+id = "573667803790311434"
+
+
 
 # See https://giscus.app/
 [params.giscus]
