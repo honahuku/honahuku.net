@@ -91,6 +91,10 @@ bio = "すやすや"
 twitter = "honahuku"
 github = "Honahuku"
 rss = true
+keybase = "honahuku"
+spotify = "f4qvq7q2ub0skmo03jqw5epkz"
+steam = "honahuku"
+slideshare = 
 [params.social.mastodon]
 weight = 56
 icon = "fab fa-mastodon"
