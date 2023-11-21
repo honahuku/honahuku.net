@@ -2,7 +2,9 @@ baseURL = 'https://honahuku.com/'
 title = 'Honahuku'
 
 theme = "puppet"
+themesDir = "themes"
 
+copyright = ""
 paginate = 9
 languageCode = 'ja'
 defaultContentLanguage = "ja"
@@ -14,9 +16,8 @@ enableEmoji = true
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
 ignoreErrors = ["error-remote-getjson"]
 
-
 disqusShortname = ""
-googleAnalytics = "UA-176823538-3"
+googleAnalytics = ""
 
 [outputs]
 home = ["HTML", "JSON", "RSS"]
@@ -71,8 +72,8 @@ weight = 150
 author = "Honahuku"
 description = "えんじにゃー"
 keywords = "blog,developer,personal"
-img_home = "/img/home-bg.png"
-img_404 = "/img/404-bg.jpeg"
+img_home = "img/home-bg.png"
+img_404 = "img/404-bg.jpeg"
 
 useFaviconGenerator = true
 
@@ -81,17 +82,29 @@ custom_css = [] # ["css/custom.css"]  Add your file to assets folder  [assets/cs
 
 [params.sidebar]
 enable = true
+gravatarEmail = ""
+# Overwritten by your gravatar image if `gravatarEmail` is filled
 avatar = "https://user-images.githubusercontent.com/58413358/190960535-726f2619-3791-4c8b-b3e3-e82f8c861b1b.png"
 bio = "すやすや"
 
 [params.social]
-rss_enable = true
 twitter = "honahuku"
 github = "Honahuku"
-
+rss = true
 [params.social.mastodon]
 weight = 56
 icon = "fab fa-mastodon"
 format = "https://mstdn.poyo.me/%v"
 id = "@honahuku"
 url = ""
+
+# See https://giscus.app/
+[params.giscus]
+enable = true
+repo = "honahuku/Honahuku"
+repo_id = "MDEwOlJlcG9zaXRvcnkyOTA2MjUwNTg="
+category = "General"
+category_id = "DIC_kwDOEVKWIs4CbH3O"
+input_position = "top"
+theme = "light_tritanopia"
+lang = "ja"
